@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl: 'https://org-review-api.herokuapp.com/api/v1',
+  baseUrl: 'https://review-backend0.herokuapp.com/api/v1',
 };
